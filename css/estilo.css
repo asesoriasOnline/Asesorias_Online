@@ -111,9 +111,6 @@
     color: white;
     font-size: 40px;
   }
-  font{
-    color: black;
-  }
   marquee{
     background-color: #227066;
   }
@@ -133,6 +130,8 @@
     color: black;
     margin-top: 60px;
     text-align: center;
+    font-family: "Arial,Helvetica,sans-serif";
+    visibility: visible;
   }
   #contenido{
     width: 30%;
